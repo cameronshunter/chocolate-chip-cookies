@@ -1,4 +1,4 @@
-# Chocolate Chip :cookie: 
+# Chocolate Chip Cookie :cookie:
 
 | Prep Time        | Cook Time           | Total Time  |
 | ------------- |:-------------:| -----:|
@@ -7,7 +7,7 @@
 
 ## About
 
-This recipe from [Baker Bettie's chocolate chip cookie recipe](http://bakerbettie.com/easy-chocolate-chip-cookies/). The recipe makes a **12-18** :cookie:.  
+This recipe from [Baker Bettie's chocolate chip cookie recipe](http://bakerbettie.com/easy-chocolate-chip-cookies/). The recipe makes a **12-18** :cookie::cookie:.  
 
 ![](assets/images/IMG_3998_square.jpg)
 
